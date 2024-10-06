@@ -15,9 +15,9 @@
 ![image](https://github.com/user-attachments/assets/7f930d9a-2754-4131-a7c2-6980a251d4f2)
 
 Добавленая фильтрация от шума
-![image](https://github.com/user-attachments/assets/263e7ede-3ef4-4209-bffa-0e6e9f365ff7)
+![image psd(1)](https://github.com/user-attachments/assets/a9639e5c-41ab-4660-9dc5-7ecf5865b342)
 
-![image](https://github.com/user-attachments/assets/3050eeb8-fad0-4834-97d6-d8514ecfaec1)
+![image psd(2)](https://github.com/user-attachments/assets/b7c3ca71-d1f1-4023-9b8d-1d622aa1a016)
 
 
 
