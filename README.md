@@ -1,10 +1,15 @@
-## [English](#English) | [Русский](#Русский)
+[![Join our Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hidden_coding)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aero25x)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aero25x)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@flaming_chameleon)
+
+## [English](#english) | [Русский](#русский)
 
 ---
 
 # DeepFa
 
-### **<a name="English">DeepFa EN</a>:**
+## English
 
 ![DeepFa](https://github.com/user-attachments/assets/e8472d00-5ccc-46ee-8eca-4f1838ce5d6d)
 
@@ -19,7 +24,7 @@ An additional noise filter has been implemented for clearer signals.
 
 ---
 
-### **GCAA:**
+### GCAA:
 
 ![GCAA](https://github.com/user-attachments/assets/3426ca49-e017-4a20-a088-75ea71b56405)
 
@@ -27,7 +32,7 @@ The GCAA script relies on support and resistance patterns, derived from the high
 
 ---
 
-### **RH:**
+### RH:
 
 ![RH](https://github.com/user-attachments/assets/e311e903-88a2-40e7-899e-014a8e63dd7d)
 
@@ -35,10 +40,9 @@ The main feature of the RH script is a histogram, which reflects overbought and 
 
 ---
 
-
 # DeepFa – Профессиональный Набор Скриптов
 
-### **<a name="Русский">DeepFa RU</a>:**
+## Русский
 
 ![DeepFa](https://github.com/user-attachments/assets/e8472d00-5ccc-46ee-8eca-4f1838ce5d6d)
 
@@ -53,7 +57,7 @@ The main feature of the RH script is a histogram, which reflects overbought and 
 
 ---
 
-### **GCAA:**
+### GCAA:
 
 ![GCAA](https://github.com/user-attachments/assets/3426ca49-e017-4a20-a088-75ea71b56405)
 
@@ -61,12 +65,11 @@ The main feature of the RH script is a histogram, which reflects overbought and 
 
 ---
 
-### **RH:**
+### RH:
 
 ![RH](https://github.com/user-attachments/assets/e311e903-88a2-40e7-899e-014a8e63dd7d)
 
 Основной элемент скрипта RH — это гистограмма, которая показывает условия перекупленности и перепроданности на рынке. Столбцы гистограммы динамически окрашиваются (зеленый для положительных значений, красный для отрицательных). Сигналы покупки и продажи отображаются точками на графике, которые меняют размер и интенсивность цвета в зависимости от силы сигнала (больше подтверждений — крупнее и ярче точка).
 
---- 
+---
 
-This structure gives a professional feel to the README in both English and Russian, with easy navigation between the languages.
