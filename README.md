@@ -1,4 +1,7 @@
 
+
+### Индикаторы сделаны для [TradingView](https://www.tradingview.com/pricing/?share_your_love=Aeroxer)
+
 ## DeepFa:
 
 ![image](https://github.com/user-attachments/assets/d0d6b2d3-199c-471c-881a-f5ca1b4dee77)
